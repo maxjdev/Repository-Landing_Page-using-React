@@ -6,7 +6,7 @@
 
 ## Description
 
-Este projeto concentra-se na integração eficiente de Styled Components com TypeScript no ambiente React. A combinação destas tecnologias proporciona uma abordagem elegante para o desenvolvimento frontend. A tipagem estática do TypeScript melhora a manutenção, enquanto os Styled Components oferecem uma gestão simplificada de estilos. Explore este repositório para aprimorar suas habilidades no uso conjunto dessas ferramentas e elevar a qualidade estilística e técnica do seu código frontend.
+This project focuses on efficiently integrating Styled Components with TypeScript in the React environment. The combination of these technologies provides an elegant approach to frontend development. TypeScript's static typing improves maintainability, while Styled Components offer simplified style management. Explore this repository to improve your skills in using these tools together and elevate the stylistic and technical quality of your frontend code.
 
 ## Contributing
 
