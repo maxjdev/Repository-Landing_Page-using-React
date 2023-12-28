@@ -1,10 +1,12 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="90px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="90px"><br><br>
-  <h1>Project: Portfolio <a href="">Deploy</a></h1> 
+  <h1>Project: Portfolio <a href="https://ebac-front-react-portfolio.vercel.app/">Deploy</a></h1> 
 </div><br>
 
+## Description
 
+Este projeto concentra-se na integração eficiente de Styled Components com TypeScript no ambiente React. A combinação destas tecnologias proporciona uma abordagem elegante para o desenvolvimento frontend. A tipagem estática do TypeScript melhora a manutenção, enquanto os Styled Components oferecem uma gestão simplificada de estilos. Explore este repositório para aprimorar suas habilidades no uso conjunto dessas ferramentas e elevar a qualidade estilística e técnica do seu código frontend.
 
 ## Contributing
 
